@@ -2,8 +2,8 @@
 
 ## Screen Animation :
 
-<table><tr><td>
+<table ><tr><td>
 
-![Alt text](for_readme/food.gif "Screens")
+<img src="for_readme/food.gif"  height="600">
 
 </td></tr></table>
