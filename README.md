@@ -4,6 +4,6 @@
 
 <table ><tr><td>
 
-<img src="for_readme/food.gif"  height="600">
+<img src="for_readme/foodscreen.gif"  height="600">
 
 </td></tr></table>
